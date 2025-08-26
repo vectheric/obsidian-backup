@@ -3,4 +3,4 @@ backup for my obsidian files
 
 # Prerequisites
 - Not stupid
-
+- use Obsidian btw
