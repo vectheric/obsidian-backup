@@ -33,21 +33,21 @@
 |$$x_n$$|`x_n`|Subscript|
 
 ## Logic
-| Symbol | LaTeX Code | Meaning |
-|--------|-----------|---------|
-| $$\neg$$        | `\neg`        | NOT / Negation |
-| $$\land$$       | `\land`       | AND / Conjunction |
-| $$\lor$$        | `\lor`        | OR / Disjunction |
-| $$\oplus$$      | `\oplus`      | XOR / Exclusive OR |
-| $$\Rightarrow$$ | `\Rightarrow` | Implies / Conditional |
-| $$\Leftrightarrow$$ | `\Leftrightarrow` | If and only if / Biconditional |
-| $$\top$$        | `\top`        | Tautology / Always true |
-| $$\bot$$        | `\bot`        | Contradiction / Always false |
-| $$\forall$$     | `\forall`     | For all / Universal quantifier |
-| $$\exists$$     | `\exists`     | There exists / Existential quantifier |
-| $$\nexists$$    | `\nexists`    | There does not exist |
-| $$\vdash$$      | `\vdash`      | Entails / Provable |
-| $$\models$$     | `\models`     | Satisfies / Semantic entailment |
-| $$\implies$$    | `\implies`    | Implies (alternative) |
-| $$\iff$$        | `\iff`        | If and only if (alternative) |
+| $$Symbol$$ | $$\LaTeX$$| $$Meaning$$ |
+| ------------------- | ----------------- | ------------------------------------- |
+| $$\neg$$            | `\neg`            | NOT / Negation                        |
+| $$\land$$           | `\land`           | AND / Conjunction                     |
+| $$\lor$$            | `\lor`            | OR / Disjunction                      |
+| $$\oplus$$          | `\oplus`          | XOR / Exclusive OR                    |
+| $$\Rightarrow$$     | `\Rightarrow`     | Implies / Conditional                 |
+| $$\Leftrightarrow$$ | `\Leftrightarrow` | If and only if / Biconditional        |
+| $$\top$$            | `\top`            | Tautology / Always true               |
+| $$\bot$$            | `\bot`            | Contradiction / Always false          |
+| $$\forall$$         | `\forall`         | For all / Universal quantifier        |
+| $$\exists$$         | `\exists`         | There exists / Existential quantifier |
+| $$\nexists$$        | `\nexists`        | There does not exist                  |
+| $$\vdash$$          | `\vdash`          | Entails / Provable                    |
+| $$\models$$         | `\models`         | Satisfies / Semantic entailment       |
+| $$\implies$$        | `\implies`        | Implies (alternative)                 |
+| $$\iff$$            | `\iff`            | If and only if (alternative)          |
 
