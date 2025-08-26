@@ -1,4 +1,5 @@
 #formula #trigonometry
+
 In [[clone/Maths/Trigonometry/Trigonometry]], the **trigonometric functions** (also called **circular functions**, **angle functions** or **goniometric functions**) are real functions which relate an angle of a right-angled triangle to ratios of two side lengths. They are widely used in all sciences that are related to geometry, such as navigation, solid mechanics, celestial mechanics, geodesy, and many others. They are among the simplest periodic functions, and as such are also widely used for studying periodic phenomena through Fourier analysis.
 
 ## I. Basic Trigonometric Identities (with Conditions)
@@ -54,7 +55,7 @@ $$
 $$
 \cot 2\alpha = \frac{\cot^2 \alpha - 1}{2 \cot \alpha}
 $$
-#### Corollary
+## IV. Half‑angle identities
 $$
 \sin^2 \alpha = \frac{1 - \cos 2\alpha}{2}
 $$
@@ -68,7 +69,7 @@ $$
 $$
 
 
-##  IV. Cautions
+##  V. Cautions
 ### 1. Triple-angle identities
 like double-angle indentities, **Triple-angle identities** express trigonometric functions of a double angle (3θ) in terms of the trigonometric functions of the original angle (θ).
 $$
@@ -79,6 +80,7 @@ $$
 $$
 ### 2. Weierstrass substitution
 Let $t = \tan\frac{x}{2}$ then:
+
 $$
 \sin x = \frac{2t}{1 + t^2}, \quad
 \cos x = \frac{1 - t^2}{1 + t^2}, \quad
