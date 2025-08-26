@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "52864eb8d468677f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Trigonometry/Formulas/Basic Formulas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Formulas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Maths/Trigonometry/Formulas/Basic Formulas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +163,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "059c752b34cfa438",
+  "active": "52864eb8d468677f",
   "lastOpenFiles": [
     "Maths/Symbols/Mathematic Symbols.md",
     "Maths/Trigonometry/Formulas/Basic Formulas.md",

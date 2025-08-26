@@ -24,7 +24,6 @@ $$
 
 ## II. Sum and Difference Identities
 **Sum and difference identities** express the sine, cosine, and tangent of the sum or difference of two angles (A and B) in terms of the sine and cosine of the individual angles.
-> [!tip] This is the vital one, you can create other formulas with **those formulas below.**
 
 $$
 \sin(a \pm b) = \sin a \cdot \cos b \pm \sin b \cdot \cos a
@@ -37,6 +36,8 @@ $$
 $$
 \tan(a \pm b) = \frac{\tan a \pm \tan b}{1 \mp \tan a \cdot \tan b}
 $$
+
+> [!tip] This is the vital one, you can create other formulas with **those formulas above.**
 
 ## III. Double-angle identities
 **Double-angle identities** express trigonometric functions of a double angle (2θ) in terms of the trigonometric functions of the original angle (θ).
