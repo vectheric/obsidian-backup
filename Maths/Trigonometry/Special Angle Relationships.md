@@ -1,4 +1,4 @@
-# I. Angle
+# I. Basics
 ## 1. Opposite Angles: $\alpha$ & $-\alpha$
 $$
 \cos(-\alpha) = \cos \alpha

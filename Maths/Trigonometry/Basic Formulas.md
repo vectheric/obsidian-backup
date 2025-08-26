@@ -19,7 +19,7 @@ $$
 
 
 ## II. Addition Formulas
-
+Tip: this is the vital one, you can create other formulas with **those formulas below.**
 $$
 \sin(a \pm b) = \sin a \cdot \cos b \pm \sin b \cdot \cos a
 $$
