@@ -1,5 +1,5 @@
 #formula #trigonometry #definition 
-In [[Trigonometry]], trigonometric ratios are the ratios between edges of a right triangle. These ratios depend only on one acute angle of the right triangle, since any two right triangles with the same acute angle are similar.
+In [[clone/Maths/Trigonometry/Trigonometry]], trigonometric ratios are the ratios between edges of a right triangle. These ratios depend only on one acute angle of the right triangle, since any two right triangles with the same acute angle are similar.
 
 So, these ratios define **functions** of this angle that are called **trigonometric functions**. Explicitly, they are defined below as functions of the known angle _A_, where _a_, _b_ and _h_ refer to the lengths of the sides in the accompanying figure.
 
@@ -17,14 +17,6 @@ $$
 
 $$
 \tan \theta = \frac{\text{opposite}}{\text{adjacent}}
-$$
-
-$$
-\csc \theta = \frac{1}{\sin \theta} = \frac{\text{hypotenuse}}{\text{opposite}}
-$$
-
-$$
-\sec \theta = \frac{1}{\cos \theta} = \frac{\text{hypotenuse}}{\text{adjacent}}
 $$
 
 $$

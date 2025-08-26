@@ -1,4 +1,4 @@
-In [[Geometry]] and [[Trigonometry]], Thales's theorem states that if A, B, and C are distinct points on a circle where the line AC is a diameter, the angle ∠ ABC is a right angle. Thales's theorem is a special case of the inscribed angle theorem and is mentioned and proved as part of the 31st proposition in the third book of Euclid's Elements. It is generally attributed to Thales of Miletus, but it is sometimes attributed to Pythagoras..
+In [[Geometry]] and [[clone/Maths/Trigonometry/Trigonometry]], Thales's theorem states that if A, B, and C are distinct points on a circle where the line AC is a diameter, the angle ∠ ABC is a right angle. Thales's theorem is a special case of the inscribed angle theorem and is mentioned and proved as part of the 31st proposition in the third book of Euclid's Elements. It is generally attributed to Thales of Miletus, but it is sometimes attributed to Pythagoras..
 ## Statement:  
 If a line is parallel to one side of a triangle and intersects the other two sides, it divides those two sides into corresponding segments that are proportional.
 ![[Pasted image 20250826114707.png]]
