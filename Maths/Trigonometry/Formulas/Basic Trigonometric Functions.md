@@ -3,9 +3,9 @@ In [[Trigonometry]], trigonometric ratios are the ratios between edges of a righ
 
 So, these ratios define **functions** of this angle that are called **trigonometric functions**. Explicitly, they are defined below as functions of the known angle _A_, where _a_, _b_ and _h_ refer to the lengths of the sides in the accompanying figure.
 
-- **[Sine](https://en.wikipedia.org/wiki/Sine "Sine")** (denoted sin), defined as the ratio of the side opposite the angle to the hypotenuse.
-- **[Cosine](https://en.wikipedia.org/wiki/Cosine "Cosine")** (denoted cos), defined as the ratio of the adjacent leg (the side of the triangle joining the angle to the right angle) to the hypotenuse.
-- **[Tangent](https://en.wikipedia.org/wiki/Tangent_\(trigonometric_function\) "Tangent (trigonometric function)")** (denoted tan), defined as the ratio of the opposite leg to the adjacent leg.
+- **Sine** (denoted sin), defined as the ratio of the side opposite the angle to the hypotenuse.
+- **Cosine** (denoted cos), defined as the ratio of the adjacent leg (the side of the triangle joining the angle to the right angle) to the hypotenuse.
+- **Tangent** (denoted tan), defined as the ratio of the opposite leg to the adjacent leg.
 
 $$
 \sin \theta = \frac{\text{opposite}}{\text{hypotenuse}}
