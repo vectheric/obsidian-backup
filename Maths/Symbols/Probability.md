@@ -1,3 +1,5 @@
+Basics of [[Mathematic Symbols]]
+
 | $$Symbol$$     | $$\LaTeX$$   | $$Meaning$$                                                                 |
 |--------|-----------|-----------------|
 | $P(A \cap B)$ | `P(A \cap B)` | $P(A \cap B) = \frac{1}{6}$ (rolling a 1 **and** a 2 on two dice) |
