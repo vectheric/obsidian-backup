@@ -71,14 +71,15 @@ $$
 
 ##  V. Cautions
 ### 1. Triple-angle identities
-like double-angle indentities, **Triple-angle identities** express trigonometric functions of a double angle (3θ) in terms of the trigonometric functions of the original angle (θ).
+like double-angle identities, **Triple-angle identities** express trigonometric functions of a double angle (3θ) in terms of the trigonometric functions of the original angle (θ).
 $$
-\sin 3\alpha = 3 \sin \alpha \cdot \sin^3 \alpha
+\sin 3\alpha = 3 \sin \alpha - 4\sin^3 \alpha
 $$
  $$
 \cos 3\alpha = 4 \cos^3 \alpha - 3\cos \alpha
 $$
-### 2. Weierstrass substitution
+
+### 2. Weierstrass' substitution
 Let $t = \tan\frac{x}{2}$ then:
 
 $$
@@ -86,7 +87,8 @@ $$
 \cos x = \frac{1 - t^2}{1 + t^2}, \quad
 \tan x = \frac{2t}{1 - t^2}
 $$
-### 3. Extra indentities
+### 3. Extra identities
+
 $$
 \sin x = \sqrt{2} \, \sin\left( x + \frac{\pi}{4} \right)
 $$
@@ -99,5 +101,13 @@ $$
 $$
 1 - \sin 2x = (\sin x - \cos x)^2
 $$
+$$\sin^3\alpha \pm \cos^3\alpha = (\sin\alpha \pm \cos\alpha)\,(1 \mp \sin\alpha\cdot\cos\alpha)$$
+$$\sin^4\alpha + \cos^4\alpha = 1 - 2\sin^2\alpha\cos^2\alpha$$
+$$\sin⁡^4\alpha−\cos⁡^4\alpha=\sin^2\alpha−\cos⁡^2\alpha=-\cos⁡^2\alpha$$
+$$
+\sin^6\alpha + \cos^6\alpha = 1 - 3\sin^2\alpha\cdot\cos^2\alpha
+$$
 
-
+$$
+\sin^6\alpha - \cos^6\alpha = -\cos2\alpha(1 - \sin^2\alpha\cdot\cos^2\alpha\big)
+$$
