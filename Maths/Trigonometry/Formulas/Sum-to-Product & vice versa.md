@@ -1,5 +1,5 @@
 #formula #trigonometry
-In [[clone/Maths/Trigonometry/Trigonometry]], Sum-to-Product and Product-to-Sum formulas are pairs of trigonometric identities that transform sums/differences of sine and cosine into products, and vice versa. They are derived from the angle addition and subtraction formulas and are crucial for simplifying complex expressions and solving trigonometric equations.
+In [[Trigonometry]], Sum-to-Product and Product-to-Sum formulas are pairs of trigonometric identities that transform sums/differences of sine and cosine into products, and vice versa. They are derived from the angle addition and subtraction formulas and are crucial for simplifying complex expressions and solving trigonometric equations.
 # I. Sum-to-Product Formulas
 
 $$

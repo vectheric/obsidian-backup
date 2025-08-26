@@ -43,7 +43,7 @@ $$
 \cot\left(\frac{\pi}{2} - \alpha\right) = \tan \alpha
 $$
 # IV. Angle Difference
-## 1. Angles Differing by $\pi$: $\alpha$ & $\alpha \pm \pi$
+## 1. Angles Differing by $\pi$:  $\alpha$ & $\alpha \pm \pi$
 $$
 \sin(\alpha \pm \pi) = -\sin \alpha
 $$
@@ -58,7 +58,7 @@ $$
 $$
 
 
-## 2. Angles Differing by $\frac{\pi}{2}$: $\alpha$ & $\alpha \pm \frac{\pi}{2}$}
+## 2. Angles Differing by $\frac{\pi}{2}$:  $\alpha$ & $\alpha \pm \frac{\pi}{2}$}
 $$
 \sin\left(\alpha \pm \frac{\pi}{2}\right) = \pm \cos \alpha
 $$

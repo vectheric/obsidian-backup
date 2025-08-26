@@ -53,8 +53,7 @@ $$
 $$
 \cot 2\alpha = \frac{\cot^2 \alpha - 1}{2 \cot \alpha}
 $$
-### Corollary
-
+#### Corollary
 $$
 \sin^2 \alpha = \frac{1 - \cos 2\alpha}{2}
 $$
@@ -65,6 +64,37 @@ $$
 
 $$
 \tan^2 \alpha = \frac{1 - \cos 2\alpha}{1 + \cos 2\alpha}
+$$
+
+
+##  IV. Cautions
+### 1. Triple-angle identities
+like double-angle indentities, **Triple-angle identities** express trigonometric functions of a double angle (3θ) in terms of the trigonometric functions of the original angle (θ).
+$$
+\sin 3\alpha = 3 \sin \alpha \cdot \sin^3 \alpha
+$$
+ $$
+\cos 3\alpha = 4 \cos^3 \alpha - 3\cos \alpha
+$$
+### 2. Weierstrass substitution
+Let $t = \tan\frac{x}{2}$ then:
+$$
+\sin x = \frac{2t}{1 + t^2}, \quad
+\cos x = \frac{1 - t^2}{1 + t^2}, \quad
+\tan x = \frac{2t}{1 - t^2}
+$$
+### 3. Extra indentities
+$$
+\sin x = \sqrt{2} \, \sin\left( x + \frac{\pi}{4} \right)
+$$
+$$
+\cos x - \sin x = \sqrt{2} \, \cos\left( x + \frac{\pi}{4} \right)
+$$
+$$
+1 + \sin 2x = (\sin x + \cos x)^2
+$$
+$$
+1 - \sin 2x = (\sin x - \cos x)^2
 $$
 
 
