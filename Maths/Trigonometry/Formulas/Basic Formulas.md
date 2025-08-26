@@ -1,4 +1,4 @@
-#formula #trigonometry
+#formula #trigonometry 
 
 In [[clone/Maths/Trigonometry/Trigonometry]], the **trigonometric functions** (also called **circular functions**, **angle functions** or **goniometric functions**) are real functions which relate an angle of a right-angled triangle to ratios of two side lengths. They are widely used in all sciences that are related to geometry, such as navigation, solid mechanics, celestial mechanics, geodesy, and many others. They are among the simplest periodic functions, and as such are also widely used for studying periodic phenomena through Fourier analysis.
 
@@ -24,7 +24,7 @@ $$
 
 ## II. Sum and Difference Identities
 **Sum and difference identities** express the sine, cosine, and tangent of the sum or difference of two angles (A and B) in terms of the sine and cosine of the individual angles.
-<sub> Tip: this is the vital one, you can create other formulas with **those formulas below.**</sub>
+> [!tip] This is the vital one, you can create other formulas with **those formulas below.**
 
 $$
 \sin(a \pm b) = \sin a \cdot \cos b \pm \sin b \cdot \cos a
@@ -40,6 +40,7 @@ $$
 
 ## III. Double-angle identities
 **Double-angle identities** express trigonometric functions of a double angle (2θ) in terms of the trigonometric functions of the original angle (θ).
+
 $$
 \sin 2\alpha = 2 \sin \alpha \cdot \cos \alpha
 $$
@@ -101,13 +102,13 @@ $$
 $$
 1 - \sin 2x = (\sin x - \cos x)^2
 $$
+#### a. Super Extra identities
 $$\sin^3\alpha \pm \cos^3\alpha = (\sin\alpha \pm \cos\alpha)\,(1 \mp \sin\alpha\cdot\cos\alpha)$$
 $$\sin^4\alpha + \cos^4\alpha = 1 - 2\sin^2\alpha\cos^2\alpha$$
 $$\sin⁡^4\alpha−\cos⁡^4\alpha=\sin^2\alpha−\cos⁡^2\alpha=-\cos⁡^2\alpha$$
 $$
 \sin^6\alpha + \cos^6\alpha = 1 - 3\sin^2\alpha\cdot\cos^2\alpha
 $$
-
 $$
 \sin^6\alpha - \cos^6\alpha = -\cos2\alpha(1 - \sin^2\alpha\cdot\cos^2\alpha\big)
 $$

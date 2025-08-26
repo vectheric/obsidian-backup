@@ -1,4 +1,5 @@
-#definition #geometry #euclidean
+#definition #geometry #euclidean #formula 
+
 # Definition & Origin
 The **Pythagorean theorem** or **Pythagoras' theorem** is a fundamental relation in [[Euclidean Geometry]] between the three sides of a right triangle. It states that the area of the square whose side is the hypotenuse (the side opposite the right angle) is equal to the sum of the areas of the squares on the other two sides. 
 
