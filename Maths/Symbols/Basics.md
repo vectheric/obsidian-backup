@@ -1,29 +1,29 @@
 Another basics of [[Mathematic Symbols]]
 #symbol
 ## Inequalities & Set theory
-| $$Symbol$$ | $$\LaTeX$$| $$Meaning$$ |
-|--------|-----------|---------|
-| $$<$$        | `<`           | Less than |
-| $$>$$        | `>`           | Greater than |
-| $$\leq$$     | `\leq`        | Less than or equal |
-| $$\geq$$     | `\geq`        | Greater than or equal |
-| $$\ll$$      | `\ll`         | Much less than |
-| $$\gg$$      | `\gg`         | Much greater than |
-| $$\nless$$   | `\nless`      | Not less than |
-| $$\ngtr$$    | `\ngtr`       | Not greater than |
-| $$\nleq$$    | `\nleq`       | Not less than or equal |
-| $$\ngeq$$    | `\ngeq`       | Not greater than or equal |
-| $$\neq$$     | `\neq`        | Not equal to |
-| $$\approx$$  | `\approx`     | Approximately equal |
-| $$\sim$$     | `\sim`        | Similar to |
-| $$\nsim$$    | `\nsim`       | Not similar to |
-| $$\equiv$$   | `\equiv`      | Identically equal / congruent |
-| $$\subset$$  | `\subset`     | Proper subset |
-| $$\supset$$  | `\supset`     | Proper superset |
-| $$\subseteq$$| `\subseteq`   | Subset or equal |
-| $$\supseteq$$| `\supseteq`   | Superset or equal |
-| $$\nsubseteq$$| `\nsubseteq` | Not subset or equal |
-| $$\nsupseteq$$| `\nsupseteq` | Not superset or equal |
+| $$Symbol$$     | $$\LaTeX$$   | $$Meaning$$                   |
+| -------------- | ------------ | ----------------------------- |
+| $$<$$          | `<`          | Less than                     |
+| $$>$$          | `>`          | Greater than                  |
+| $$\leq$$       | `\leq`       | Less than or equal            |
+| $$\geq$$       | `\geq`       | Greater than or equal         |
+| $$\ll$$        | `\ll`        | Much less than                |
+| $$\gg$$        | `\gg`        | Much greater than             |
+| $$\nless$$     | `\nless`     | Not less than                 |
+| $$\ngtr$$      | `\ngtr`      | Not greater than              |
+| $$\nleq$$      | `\nleq`      | Not less than or equal        |
+| $$\ngeq$$      | `\ngeq`      | Not greater than or equal     |
+| $$\neq$$       | `\neq`       | Not equal to                  |
+| $$\approx$$    | `\approx`    | Approximately equal           |
+| $$\sim$$       | `\sim`       | Similar to                    |
+| $$\nsim$$      | `\nsim`      | Not similar to                |
+| $$\equiv$$     | `\equiv`     | Identically equal / congruent |
+| $$\subset$$    | `\subset`    | Proper subset                 |
+| $$\supset$$    | `\supset`    | Proper superset               |
+| $$\subseteq$$  | `\subseteq`  | Subset or equal               |
+| $$\supseteq$$  | `\supseteq`  | Superset or equal             |
+| $$\nsubseteq$$ | `\nsubseteq` | Not subset or equal           |
+| $$\nsupseteq$$ | `\nsupseteq` | Not superset or equal         |
 
 ## Fractions, Roots & Powers
 | $$ Symbol $$ | $$ \LaTeX $$ | $$Meaning$$ |

@@ -37,15 +37,13 @@ $$
 $$
 
 ## III. Double-angle identities
-**Double-angle identities** express trigonometric functions of a double angle (2θ) in terms of the trigonometric functions of the original angle (θ)
+**Double-angle identities** express trigonometric functions of a double angle (2θ) in terms of the trigonometric functions of the original angle (θ).
 $$
 \sin 2\alpha = 2 \sin \alpha \cdot \cos \alpha
 $$
 
 $$
-\cos 2\alpha = \cos^2 \alpha - \sin^2 \alpha
-			= 2 \cos^2 \alpha - 1 
-			= 1 - 2 \sin^2 \alpha
+\cos 2\alpha = \cos^2 \alpha - \sin^2 \alpha= 2 \cos^2 \alpha - 1 = 1 - 2 \sin^2 \alpha
 $$
 
 $$
