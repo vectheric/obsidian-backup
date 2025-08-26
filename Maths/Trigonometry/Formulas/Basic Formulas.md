@@ -24,6 +24,7 @@ $$
 ## II. Sum and Difference Identities
 **Sum and difference identities** express the sine, cosine, and tangent of the sum or difference of two angles (A and B) in terms of the sine and cosine of the individual angles.
 <sub> Tip: this is the vital one, you can create other formulas with **those formulas below.**</sub>
+
 $$
 \sin(a \pm b) = \sin a \cdot \cos b \pm \sin b \cdot \cos a
 $$
