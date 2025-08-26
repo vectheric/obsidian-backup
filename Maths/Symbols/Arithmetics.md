@@ -8,7 +8,6 @@ Basics of [[Mathematic Symbols]]
 | $$\times$$        | `\times`        | $$a \times b = c$$                                                                           |
 | $$\cdot$$         | `\cdot`         | $$a \cdot b = c$$                                                                            |
 | $$\div$$          | `\div`          | $$a \div b = c$$                                                                             |
-| $$/$$             | `\frac{a}{b}`   | $$\frac{a}{b} = c$$                                                                          |
 | $$\pm$$           | `\pm`           | $$x = -b \pm \sqrt{b^2 - 4ac}$$                                                              |
 | $$\mp$$           | `\mp`           | $$y = p \mp q$$                                                                              |
 | $$=$$             | `=`             | $$2 + 3 = 5$$                                                                                |
