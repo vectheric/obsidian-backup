@@ -1,3 +1,4 @@
+#formula #trigonometry
 In [[Trigonometry]], special angle relationships include complementary angles (sum to 90°), supplementary angles (sum to 180°), vertical angles (opposite angles formed by intersecting lines, which are equal), corresponding angles, alternate interior angles, and alternate exterior angles (related to parallel lines and transversals, often congruent or supplementary). These relationships allow you to determine unknown angle measures based on known ones, forming the basis for solving geometry problems.
 # I. Basics
 ## 1. Opposite Angles: $\alpha$ & $-\alpha$

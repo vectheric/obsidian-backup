@@ -1,5 +1,5 @@
 Another basics of [[Mathematic Symbols]]
-#math
+#symbol
 ## Inequalities & Set theory
 | $$Symbol$$ | $$\LaTeX$$| $$Meaning$$ |
 |--------|-----------|---------|

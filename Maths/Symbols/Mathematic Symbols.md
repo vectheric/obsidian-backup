@@ -1,1 +1,2 @@
+#symbol #definition 
 A mathematical symbol is a figure or a combination of figures that is used to represent a mathematical object, an action on mathematical objects, a relation between mathematical objects, or for structuring the other symbols that occur in a formula or a mathematical expression. More formally, a mathematical symbol is any grapheme used in mathematical formulas and expressions. As formulas and expressions are entirely constituted with symbols of various types, many symbols are needed for expressing all mathematics.
