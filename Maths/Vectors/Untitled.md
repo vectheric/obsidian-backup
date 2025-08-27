@@ -26,7 +26,7 @@ $$
 
 ## Cosine of the angle between two vectors
 $$
-\cos(\mathbf{\vec{a}},\mathbf{\vec{b}} )= \frac{\mathbf{\vec{a}} \cdot \mathbf{\vec{b}}}{|\mathbf{\vec{a}} |\cdot |\mathbf{\vec{b}} |} =
+\cos(\mathbf{\vec{a}},\mathbf{\vec{b}} )= \frac{\mathbf{\vec{a}} \cdot \mathbf{\vec{b}}}{|\mathbf{a} |\cdot |\mathbf{b} |} =
 \frac{\mathbf{x_\vec{a}} \cdot \mathbf{x_\vec{b}}+\mathbf{y_\vec{a}} \cdot \mathbf{y_\vec{b}}} 
 {\sqrt{\mathbf{x_\vec{a}}^2 + {\mathbf{y_\vec{a}}}^2} \cdot {\sqrt{\mathbf{x_\vec{b}}^2+ \mathbf{y_\vec{b}}^2}} },\quad\mathbf{\vec{a},\vec{b}}\neq \mathbf{0}
 $$
