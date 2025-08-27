@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clone/Maths/Trigonometry/Trigonometry.md",
-                "mode": "source",
+                "file": "Maths/Trigonometry/Formulas/Basic Formulas.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Trigonometry"
+              "title": "Basic Formulas"
             }
           }
         ],
