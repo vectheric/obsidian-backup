@@ -34,5 +34,5 @@ $$
 
 ## Perpendicular condition
 $$
-\vec{\mathbf{a}} \perp \vec{\mathbf{b}} \quad \Leftrightarrow \quad {{x}_\vec{\mathbf{a}} }\cdot {{x}_\vec{\mathbf{b}}} + {{y}_\vec{\mathbf{a}}} \cdot{{y}_\vec{\mathbf{b}}} =
+\vec{\mathbf{a}}\perp\vec{\mathbf{b}} \quad \Leftrightarrow \quad {{x}_\vec{\mathbf{a}} }\cdot {{x}_\vec{\mathbf{b}}} + {{y}_\vec{\mathbf{a}}} \cdot{{y}_\vec{\mathbf{b}}} =
 $$
