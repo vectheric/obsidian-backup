@@ -24,8 +24,8 @@
               "type": "markdown",
               "state": {
                 "file": "Maths/Vectors/Untitled.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Untitled"
@@ -164,7 +164,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9683db90ba53f47b",
+  "active": "52864eb8d468677f",
   "lastOpenFiles": [
     "Maths/Trigonometry/Formulas/Basic Formulas.md",
     "Maths/Symbols/Mathematic Symbols.md",
