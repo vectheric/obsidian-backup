@@ -27,9 +27,8 @@ $$
 ## Cosine of the angle between two vectors
 $$
 \cos(\mathbf{a}, \mathbf{b})= 1 =
-\frac{\mathbf{a} \cdot \mathbf{b}}
-{\sqrt{\mathbf{x_\vec{a}}^2 + {\mathbf{y_\vec{a}}}^2} \, \sqrt{x'^2 + y'^2}}, 
-\quad \mathbf{a} \neq \mathbf{0}, \ \mathbf{b} \neq \mathbf{0}
+\frac{\mathbf{x_\vec{a}} \cdot \mathbf{x_\vec{b}}} 
+{\sqrt{\mathbf{x_\vec{a}}^2 + {\mathbf{y_\vec{a}}}^2} \cdot {\sqrt{\mathbf{x_\vec{b}}^2 + {\mathbf{y_\vec{b}}}^2}}},\quad\mathbf{\vec{a},\vec{b}}\neq \mathbf{0}
 $$
 
 ## Perpendicular condition
