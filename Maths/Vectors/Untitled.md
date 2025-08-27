@@ -34,5 +34,5 @@ $$
 
 ## Perpendicular condition
 $$
-\mathbf{a} \perp \mathbf{b} \quad \Leftrightarrow \quad x x' + y y' = 0
+\vec{\mathbf{a}} \perp \vec{\mathbf{b}} \quad \Leftrightarrow \quad x x' + y y' = 0
 $$
