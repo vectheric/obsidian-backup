@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Vectors/Untitled.md",
+                "file": "Maths/Trigonometry/Formulas/Basic Formulas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Basic Formulas"
             }
           }
         ],
@@ -166,9 +166,11 @@
   },
   "active": "52864eb8d468677f",
   "lastOpenFiles": [
+    "Maths/Trigonometry/Formulas/Special Angle Relationships.md",
+    "Maths/Trigonometry/Formulas/Sum-to-Product & vice versa.md",
+    "Maths/Vectors/Untitled.md",
     "Maths/Trigonometry/Formulas/Basic Formulas.md",
     "Maths/Symbols/Mathematic Symbols.md",
-    "Maths/Trigonometry/Formulas/Special Angle Relationships.md",
     "Maths/Symbols/Numbers.md"
   ]
 }
