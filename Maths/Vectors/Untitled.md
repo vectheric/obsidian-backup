@@ -33,6 +33,7 @@ $$
 $$
 
 ## Perpendicular condition
+
 $$
-\vec{\mathbf{a}}\perp\vec{\mathbf{b}}\Leftrightarrow\vec{\mathbf{a}}\cdot\vec{\mathbf{b}}\Leftrightarrow{{x}_\vec{\mathbf{a}} }\cdot {{x}_\vec{\mathbf{b}}} + {{y}_\vec{\mathbf{a}}} \cdot{{y}_\vec{\mathbf{b}}} = 0
+\vec{\mathbf{a}}\perp\vec{\mathbf{b}}\Leftrightarrow\vec{\mathbf{a}}\cdot\vec{\mathbf{b}}=0\Leftrightarrow{{x}_\vec{\mathbf{a}} }\cdot {{x}_\vec{\mathbf{b}}} + {{y}_\vec{\mathbf{a}}} \cdot{{y}_\vec{\mathbf{b}}}=0
 $$
