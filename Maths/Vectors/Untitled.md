@@ -26,9 +26,9 @@ $$
 
 ## Cosine of the angle between two vectors
 $$
-\cos(\mathbf{a}, \mathbf{b}) =
+\cos(\mathbf{a}, \mathbf{b})= 1 =
 \frac{\mathbf{a} \cdot \mathbf{b}}
-{\sqrt{x^2 + y^2} \, \sqrt{x'^2 + y'^2}}, 
+{\sqrt{\mathbf{x_\vec{a}}^2 + {\mathbf{x_\vec{b}}}^2} \, \sqrt{x'^2 + y'^2}}, 
 \quad \mathbf{a} \neq \mathbf{0}, \ \mathbf{b} \neq \mathbf{0}
 $$
 
