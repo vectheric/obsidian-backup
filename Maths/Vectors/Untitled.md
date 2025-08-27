@@ -13,6 +13,7 @@ $$
 $$
 
 ## In coordinates
+
 $$\vec{\mathbf{a}} \cdot \vec{\mathbf{b}} ={{x}_\vec{\mathbf{a}} }\cdot {{x}_\vec{\mathbf{b}}} + {{y}_\vec{\mathbf{a}}} \cdot{{x}_\vec{\mathbf{b}}}$$
 
 # Magnitude of a vector
