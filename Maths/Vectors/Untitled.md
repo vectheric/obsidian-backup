@@ -1,8 +1,5 @@
+#formula 
 
-**Given coordinates of vectors**
-$$
-\mathbf{a} = \langle x, y \rangle, \quad \mathbf{b} = \langle x', y' \rangle
-$$
 
 ## Dot product of two vectors
 $$
@@ -21,14 +18,12 @@ $$
 
 ## Magnitude of a vector
 $$
-|\mathbf{a}| = \sqrt{x^2 + y^2}
+|\mathbf{\vec{a}}| = \sqrt{x_\vec{a} ^2 + y_\vec{a} ^2}
 $$
 
 ## Cosine of the angle between two vectors
 $$
-\cos(\mathbf{\vec{a}},\mathbf{\vec{b}} )= \frac{\mathbf{\vec{a}} \cdot \mathbf{\vec{b}}}{|\mathbf{a} |\cdot |\mathbf{b} |} =
-\frac{\mathbf{x_\vec{a}} \cdot \mathbf{x_\vec{b}}+\mathbf{y_\vec{a}} \cdot \mathbf{y_\vec{b}}} 
-{\sqrt{\mathbf{x_\vec{a}}^2 + {\mathbf{y_\vec{a}}}^2} \cdot {\sqrt{\mathbf{x_\vec{b}}^2+ \mathbf{y_\vec{b}}^2}} },\quad\mathbf{\vec{a},\vec{b}}\neq \mathbf{0}
+\cos(\mathbf{\vec{a}},\mathbf{\vec{b}} )= \frac{\mathbf{\vec{a}} \cdot \mathbf{\vec{b}}}{|\mathbf{a} |\cdot |\mathbf{b}|}=\frac{\mathbf{x_\vec{a}} \cdot\mathbf{x_\vec{b}}+\mathbf{y_\vec{a}}\cdot\mathbf{y_\vec{b}}} {\sqrt{\mathbf{x_\vec{a}}^2 + {\mathbf{y_\vec{a}}}^2} \cdot {\sqrt{\mathbf{x_\vec{b}}^2+ \mathbf{y_\vec{b}}^2}} },\quad\mathbf{\vec{a},\vec{b}}\neq \mathbf{0}
 $$
 
 ## Perpendicular condition
