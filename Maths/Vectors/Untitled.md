@@ -6,7 +6,7 @@ $$
 
 ## Dot product of two vectors
 $$
-\vec{\mathbf{a}} \cdot \vec{\mathbf{b}} = |\mathbf{a}|\,|\mathbf{b}| \cos(\alpha, \beta)
+\vec{\mathbf{a}} \cdot \vec{\mathbf{b}} = |\mathbf{a}||\mathbf{b}| \cos(\alpha, \beta)
 $$
 
 ## Scalar square of a vector
@@ -34,5 +34,5 @@ $$
 
 ## Perpendicular condition
 $$
-\vec{\mathbf{a}} \perp \vec{\mathbf{b}} \quad \Leftrightarrow \quad x x' + y y' = 0
+\vec{\mathbf{a}} \perp \vec{\mathbf{b}} \quad \Leftrightarrow \quad {{x}_\vec{\mathbf{a}} }\cdot {{x}_\vec{\mathbf{b}}} + {{y}_\vec{\mathbf{a}}} \cdot{{x}_\vec{\mathbf{b}}} =
 $$
